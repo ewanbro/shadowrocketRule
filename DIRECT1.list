@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,alicdn.com
 
 # Accelerate most visited sites
 DOMAIN,blzddist1-a.akamaihd.net
-DOMAIN,cdn.angruo.com,PROXY
 DOMAIN,download.jetbrains.com
 DOMAIN,file-igamecj.akamaized.net
 DOMAIN,images-cn.ssl-images-amazon.com
