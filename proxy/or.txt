@@ -1,8 +1,0 @@
-DOMAIN,cdn.angruo.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,getpricetag.com
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,teamviewer.com
-DOMAIN-SUFFIX,v2ex.com
