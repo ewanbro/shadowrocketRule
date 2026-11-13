@@ -1,0 +1,8 @@
+# LINE
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+USER-AGENT,Line*
